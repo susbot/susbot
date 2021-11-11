@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susbot
-- 👀 I’m interested in Python, Django, DRF,and possible VueJS in the future
+- 👀 I’m interested in Python, Django, DRF.
 - 🌱 I’m currently learning ... Django and Python
 - 💞️ I’m looking to collaborate on ... anything related to Django, Python, DRF. Open to more 
 - 📫 How to reach me ..
