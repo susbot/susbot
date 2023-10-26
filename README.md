@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @susbot
-- 👀 I’m interested in Python, Django, DRF.
-- 🌱 I’m currently learning ... Django and Python
-- 💞️ I’m looking to collaborate on ... anything related to Django, Python, DRF. Open to more 
-- 📫 How to reach me ..
+- 👋 Whats automation?
 
 <!---
 susbot/susbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
