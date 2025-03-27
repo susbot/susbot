@@ -1,4 +1,4 @@
-- 👋 Whats automation?
+- I enjoy conecting people, systems & Ideas.
 
 <!---
 susbot/susbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
